@@ -1,4 +1,4 @@
-# Nom du Projet
+# Simpl-IA
 
 Description courte du projet.
 
