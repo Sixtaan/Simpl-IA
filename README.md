@@ -8,3 +8,4 @@ Ce projet utilise plusieurs bibliothèques, notamment :
 Conformément à la licence AGPL v3 de Ultralytics, ce projet est publié sous AGPL v3.
 
 Voir le fichier LICENSE pour plus de détails.
+https://github.com/ultralytics/ultralytics
