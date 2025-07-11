@@ -32,5 +32,5 @@ Pour plus d’informations sur Ultralytics et sa licence AGPLv3, consultez :
 
 ## Contact
 
-Pour toute question, vous pouvez me contacter à : [ton.email@exemple.com]
+Pour toute question, vous pouvez me contacter à : [flagetadam@gmail.com]
 
